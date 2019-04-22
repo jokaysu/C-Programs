@@ -1,0 +1,37 @@
+/*
+INTEGRITY STATEMENT (modify if neccessary)
+  I received help from the following sources: None. 
+  I am the sole author of this work .
+  Sign this statement by removing the line below and entering your name
+    Name: Chenzheng Su
+    login ID: c28su
+*/
+
+a.
+O(1) < O(logn) < O(n) < O(nlogn) < O(n^3) < O(2^n) < O(4^n)
+
+b.
+Inside the for loop, it is O(1)
+There is n-times loop.(n is the length of str)
+So in total, the runtime is O(n)
+
+c.
+It is a recursion.
+T(n) = O(1) + O(n/2) + O(n/2)
+So runtime is O(n)
+
+d.
+Inside the j loop, it is O(1)
+J loop is a n-times loop. (n is the length of str2)
+So j loop is O(n)
+Inside the i loop, it is O(n)
+I loop is a m-times loop. (m is the length of str1)
+So i loop is O(n * m)
+Hence, runtime is O(nm)
+
+e.
+Inside the j loop, it is O(1)
+J loop is n-times loop.
+Inside the i loop, it is O(n)
+I loop is log4(n)times loop
+So runtime is O(nlog4(n)).

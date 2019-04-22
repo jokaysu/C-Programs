@@ -1,0 +1,11 @@
+PQueue Created
+Added: 30 3
+Added: 20 2
+Added: 15 2
+Added: 10 1
+Printing Queue:
+[1] 10
+[2] 20 15
+[3] 30
+to_array destroyed queue
+10, 20, 15, 30.

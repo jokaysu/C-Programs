@@ -1,0 +1,19 @@
+PQueue Created
+Added: 10 5
+Added: 20 2
+Added: 100 1
+Added: 999 3
+Printing Queue:
+[1] 100
+[2] 20
+[3] 999
+[5] 10
+k_way_split destroyed queue
+k was 3
+Queue 0
+[1] 100
+[5] 10
+Queue 1
+[2] 20
+Queue 2
+[3] 999

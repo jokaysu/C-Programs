@@ -1,0 +1,46 @@
+INTEGRITY STATEMENT (modify if neccessary)
+  I received help from the following sources: None. 
+  I am the sole author of this work .
+  Sign this statement by removing the line below and entering your name
+    Name: Chenzheng Su
+    login ID: c28su
+
+************Point A************
+===============================
+foo:
+	p1: addr_2
+	p2: addr_2
+	return address: main: 22
+===============================
+main:
+  x: 10 [addr_1]
+  y: 35 [addr_2]
+  return address: OS
+===============================
+
+
+************Point B************
+===============================
+swap:
+	p1: addr_3
+	p2: addr_4
+	return address: main 25
+===============================
+main:
+	x: 10 [addr_1]
+  y: 35 [addr_2]
+  p1: {21, 24} [addr_3]
+  p2: {21, 24} [addr_4]
+  return address: OS
+===============================
+
+
+************Point C************
+===============================
+main:
+	x: 10 [addr_1]
+  y: 35 [addr_2]
+  p1: {21, 24} [addr_3]
+  p2: {21, 24} [addr_4]
+  return address: OS
+===============================

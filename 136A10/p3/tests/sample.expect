@@ -1,0 +1,11 @@
+PQueue Created
+Added: 1 10
+Printing PQueue:
+[(1,10)]
+Added: 2 20
+Added: 3 30
+Printing PQueue:
+[(1,10),(2,20),(3,30)]
+Removed: 1
+Empty?:false
+PQueue Destroyed

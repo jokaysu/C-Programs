@@ -1,0 +1,14 @@
+Sequence Created
+Inserted: 20 at 0
+Inserted: 30 at 1
+Inserted: 50 at 2
+Inserted: 10 at 0
+[4] 10 20 30 50
+Inserted: 40 at 3
+Length: 5
+[5] 10 20 30 40 50
+Removed: 10 from 0
+Removed: 50 from 3
+Removed: 30 from 1
+[2] 20 40
+Sequence Destroyed

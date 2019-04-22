@@ -1,0 +1,23 @@
+Hello,
+
+This is a test to see if you can use the C printf function in CS 136.
+
+Watch your spacing very carefully.
+                   ~~~~~~~~~~~~~~
+
+You can assume there are no spaces at the end of the lines.
+
+One restriction: you cannot use numbers directly.
+
+So, in order to print the fun number 1337 and 4010, you must use %d.
+
+Also, please define:
+
+const int n = 1337;
+
+const int m = 4010;
+
+And then use m and n (and %d) to print:
+"The sum of 1337 and 4010 is 5347!".
+
+Don't forget to put a newline (\n) at the end of the last line.

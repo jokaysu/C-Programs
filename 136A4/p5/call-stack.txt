@@ -1,0 +1,69 @@
+INTEGRITY STATEMENT (modify if neccessary)
+  I received help from the following sources: None. 
+  I am the sole author of this work .
+  Sign this statement by removing the line below and entering your name
+    Name:	Chenzheng Su
+    login ID: c28su
+
+# Write your solution here and submit
+
+************Part A************
+==============================
+g:
+	x: 5
+	y: ???
+	return address: f: 8
+==============================
+f:
+	x: 5
+	y: ???
+	return address: main: 27
+==============================
+main:
+	x: ???
+	return address: OS
+==============================
+
+
+
+
+************Part B************
+==============================
+h:
+	x: 25
+	y: 625
+	return address: g: 15
+==============================
+g:
+	x: 5
+	y: ???
+	return address: f: 8
+==============================
+f:
+	x: 5
+	y: ???
+	return address: main: 27
+==============================
+main:
+	x: ???
+	return address: OS
+==============================
+
+
+
+************Part C************
+==============================
+h:
+	x: 200
+	y: 40000
+	return address: f: 9
+==============================
+f:
+	x: 5
+  y: ???
+  return address: main: 27
+==============================
+main:
+	x: ???
+	return address: OS
+==============================
